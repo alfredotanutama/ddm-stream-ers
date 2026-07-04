@@ -71,8 +71,8 @@ function App() {
             <header className="border-b bg-card">
               <div className="container mx-auto px-4 h-14 flex items-center justify-between max-w-6xl">
                 <div className="flex items-center gap-3">
-                  <img src="/favicon.svg" alt="DDM Stream" className="w-7 h-7" />
-                  <h1 className="font-semibold tracking-tight text-sm">DDM Stream</h1>
+                  <img src="/favicon.svg" alt="DDM Stream for COBOLers" className="w-7 h-7" />
+                  <h1 className="font-semibold tracking-tight text-sm">DDM Stream for COBOLers</h1>
                 </div>
                 <ThemeToggle />
               </div>
