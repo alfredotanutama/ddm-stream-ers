@@ -71,7 +71,7 @@ function App() {
             <header className="border-b bg-card">
               <div className="container mx-auto px-4 h-14 flex items-center justify-between max-w-6xl">
                 <div className="flex items-center gap-3">
-                  <div className="w-7 h-7 bg-primary rounded shadow-sm flex items-center justify-center font-mono text-primary-foreground text-sm font-bold border border-primary/20">D</div>
+                  <img src="/favicon.svg" alt="DDM Stream" className="w-7 h-7" />
                   <h1 className="font-semibold tracking-tight text-sm">DDM Stream</h1>
                 </div>
                 <ThemeToggle />
